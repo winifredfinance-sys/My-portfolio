@@ -281,6 +281,9 @@ td.yes{color:var(--acc);font-weight:600}
 .fig-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
 @media (max-width:640px){.fig-pair{grid-template-columns:1fr}}
 .dg{width:100%;height:auto;margin:0 auto}
+.shot{width:100%;height:auto;border:1px solid var(--line);border-radius:8px;background:#fff}
+.shot-link{display:block;cursor:zoom-in}
+.shot-link img[src*="deviation-settings"]{max-width:612px;margin:0 auto}
 .dg text{fill:var(--fg);font-family:var(--sans);font-size:14px}
 .dg .t-mut{fill:var(--mut)}
 .dg .t-acc{fill:var(--acc);font-weight:600}
