@@ -1,6 +1,14 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
+  "redirects": [
+    { "source": "/work/health-insurance", "destination": "/work/hadiel-health/", "permanent": true },
+    { "source": "/work/health-insurance/", "destination": "/work/hadiel-health/", "permanent": true },
+    { "source": "/work/trustesse", "destination": "/work/", "permanent": true },
+    { "source": "/work/trustesse/", "destination": "/work/", "permanent": true },
+    { "source": "/work", "destination": "/#work", "permanent": false },
+    { "source": "/work/", "destination": "/#work", "permanent": false }
+  ],
   "headers": [
     { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] }
   ]
