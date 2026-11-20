@@ -27,8 +27,8 @@ CONTACT = ('Lagos, Nigeria | +234 808 666 1738 | '
            'Portfolio: <a href="https://winifredukoh.vercel.app">winifredukoh.vercel.app</a>')
 
 SUMMARY = (
-    "Senior Product Manager and Product Team Lead with 7 years in product roles across health insurance, logistics, "
-    "education, e-commerce and retail. I set product strategy, lead cross-functional teams and use AI-assisted "
+    "Senior Product Manager and Product Team Lead with 5 years in product management across health insurance, "
+    "logistics, education and e-commerce, after founding an apparel distribution business. I set product strategy, lead cross-functional teams and use AI-assisted "
     "workflows to move from research to delivery faster. Currently Product Team Lead at Hadiel Health, leading a "
     "team of 20. Results include agency onboarding more than 99% faster, driver registration more than 90% faster, "
     "checkout conversion up 18%, course completion up 22%, 30+ product features delivered and team efficiency up "
@@ -58,8 +58,9 @@ EXPERIENCE = [
       "dependant upload to protect the core launch.",
       "Established the team's operating rhythm: weekly performance updates, daily stand-ups, sprint planning and "
       "sprint retrospectives."]),
-    ("Senior Product Manager, Movam Technologies Limited (logistics)",
-     "Lagos, Nigeria | 2024 - 2026 | Full-time",
+    ("Movam Technologies Limited (logistics)",
+     "Lagos, Nigeria | 2024 - 2026 | Full-time<br/>"
+     "<b>Senior Product Manager</b>, 2025 - 2026 (promoted) | <b>Product Manager</b>, 2024 - 2025",
      ["Owned product strategy and the roadmap for multi-platform B2B logistics products serving 10,000+ users.",
       "Identified onboarding friction, not demand, as the constraint on growth through research with 20+ drivers "
       "and operations staff, and made it the top roadmap priority.",
@@ -83,11 +84,12 @@ EXPERIENCE = [
       "Prioritised fixes by value against effort and drove an 18% increase in checkout conversion.",
       "Partnered with UX/UI on the mobile experience, contributing to a 20% increase in daily active users.",
       "Led 12 engineers and designers on bi-weekly Agile releases."]),
-    ("Associate Product Manager, Maloxe (apparel distribution, wholesale and retail)",
-     "Lagos, Nigeria | 2019 - 2021",
-     ["Managed product sourcing, pricing and inventory for apparel sold to wholesale and retail buyers across Lagos.",
-      "Owned sales and customer relationships with wholesale and retail buyers.",
-      "Managed margins and cash flow, making pricing and stock decisions with limited resources."]),
+    ("Founder, Maloxe",
+     "Apparel distribution (wholesale and retail) | Lagos, Nigeria | 2019 - 2021",
+     ["Founded and ran an apparel brand supplying clothing to wholesale and retail buyers across Lagos.",
+      "Owned the full commercial cycle: product sourcing, pricing, sales, customer relationships, inventory and cash flow.",
+      "Built the commercial judgment I bring to product work: understanding what customers will pay for, managing "
+      "margins and making decisions with limited resources."]),
 ]
 
 EDUCATION = "Crawford University, Ogun State, Nigeria - BSc, Biochemistry (2015 - 2019)"
