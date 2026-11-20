@@ -61,7 +61,9 @@ EXPERIENCE = [
     ("Movam Technologies Limited (logistics)",
      "Lagos, Nigeria | 2024 - 2026 | Full-time<br/>"
      "<b>Senior Product Manager</b>, 2025 - 2026 (promoted) | <b>Product Manager</b>, 2024 - 2025",
-     ["Owned product strategy and the roadmap for multi-platform B2B logistics products serving 10,000+ users.",
+     ["Owned product strategy and the roadmap for a B2B fleet-management platform serving 10,000+ users, spanning "
+      "live tracking, trip management, electronic proof of delivery (EPOD), safety and activity reporting, and fleet "
+      "maintenance and compliance.",
       "Identified onboarding friction, not demand, as the constraint on growth through research with 20+ drivers "
       "and operations staff, and made it the top roadmap priority.",
       "Led self-service partner onboarding, cutting driver registration time by more than 90%, from up to two weeks "
