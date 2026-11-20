@@ -27,82 +27,71 @@ CONTACT = ('Lagos, Nigeria | +234 808 666 1738 | '
            'Portfolio: <a href="https://winifredukoh.vercel.app">winifredukoh.vercel.app</a>')
 
 SUMMARY = (
-    "Senior Product Manager with 5+ years of professional experience, including product management since 2023, "
-    "across logistics, e-commerce, education and health insurance. Currently Product Team Lead at Hadiel Health, "
-    "leading a team of 20 (3 product managers, engineering and QA). I set product direction and roadmaps, ground "
-    "decisions in research with users and operations teams, and turn insight into measurable outcomes: agency "
-    "onboarding cut from up to two days to under 10 minutes, driver registration cut from up to two weeks to under "
-    "one day, and an 18% lift in checkout conversion."
+    "Senior Product Manager and Product Team Lead with 5 years in product management across health insurance, "
+    "logistics, education and e-commerce, after founding an apparel distribution business. I set product strategy, lead cross-functional teams and use AI-assisted "
+    "workflows to move from research to delivery faster. Currently Product Team Lead at Hadiel Health, leading a "
+    "team of 20. Results include agency onboarding more than 99% faster, driver registration more than 90% faster, "
+    "checkout conversion up 18%, course completion up 22%, 30+ product features delivered and team efficiency up "
+    "20% through workflow automation and sprint optimisation."
 )
 
-ACHIEVEMENTS = [
-    "Cut agency onboarding from up to <b>two days</b> to <b>under 10 minutes</b> with a self-service client portal (Hadiel Health).",
-    "Cut driver registration from up to <b>two weeks</b> to <b>under one day</b> with self-service partner onboarding (Movam).",
-    "Increased checkout conversion by <b>18%</b>; mobile experience work contributed to a <b>20%</b> rise in daily active users (Shopta).",
-    "Improved course completion by <b>22%</b> and NPS by <b>12 points</b> through a personalised learning dashboard and "
-    "automated feedback loops (Edswot).",
-    "Launched 7 high-impact features that contributed to a <b>15%</b> improvement in customer satisfaction and a "
-    "<b>12%</b> improvement in user activation (Movam).",
-    "Launched 30+ digital product features across roles and improved team efficiency by <b>20%</b> through workflow "
-    "automation and sprint optimisation.",
-]
-
 SKILLS = [
-    ("Strategy and Vision", "Product vision, roadmap ownership, outcome-based prioritisation, market research, go-to-market coordination."),
-    ("Discovery", "User and client interviews, operations feedback, workflow reviews, funnel and friction-point analysis."),
-    ("Execution", "Agile delivery, sprint planning, backlog prioritisation, UAT coordination, release documentation."),
-    ("Analytics", "KPI and OKR tracking, funnel analysis, A/B testing, product performance metrics."),
-    ("Leadership", "Cross-functional team leadership, weekly performance updates, sprint retrospectives, stakeholder management, workshop facilitation."),
-    ("Tools and AI", "AI-assisted product workflows, Jira, Confluence, Figma, Miro, Google Analytics, Amplitude, SQL (basic), Excel."),
+    ("Strategy", "Product vision, roadmap ownership, outcome-based prioritisation, market research, go-to-market."),
+    ("Discovery", "Client and user interviews, operations feedback, workflow reviews, funnel and friction analysis."),
+    ("Delivery", "Agile and Scrum, sprint planning, backlog prioritisation, UAT, release planning."),
+    ("Analytics", "KPIs and OKRs, funnel analysis, A/B testing, Google Analytics, Amplitude, SQL (basic), Excel."),
+    ("Leadership", "Leading PMs and engineers, weekly performance updates, retrospectives, stakeholder management."),
+    ("AI and tools", "AI-assisted research synthesis, requirements and test planning, Jira, Confluence, Figma, Miro."),
 ]
 
 # (heading, sub-line, bullets)
 EXPERIENCE = [
     ("Product Team Lead, Hadiel Health (health insurance / HMO)",
-     "Lagos, Nigeria | Mar 2026 - Present | Full-time",
-     ["Lead a cross-functional team of 20: 3 product managers, 2 senior back-end engineers, 2 senior front-end "
-      "engineers, QA and others.",
-      "Led a self-service client portal for HR teams and agencies (members, utilisation, health-data summaries and "
-      "reconciliation) and a companion enrollee app for members.",
-      "Cut agency onboarding from up to two days to under 10 minutes: agencies now upload their own members instead "
-      "of emailing spreadsheets for manual upload.",
-      "Confirmed client needs through client interviews and feedback from enrolment, customer service, case, "
-      "provider relations and agency relations officers.",
-      "Run weekly performance updates, daily stand-ups, sprint planning and sprint retrospectives."]),
+     "Lagos, Nigeria | 2026 - Present | Full-time",
+     ["Lead product strategy for corporate clients and head a cross-functional team of 20: 3 product managers, "
+      "4 senior engineers, QA and others.",
+      "Built and launched a self-service client portal for HR teams and agencies, cutting agency onboarding time by "
+      "more than 99%, from up to two days to under 10 minutes.",
+      "Moved routine client requests for utilisation, member and reconciliation data into the portal, removing a "
+      "steady stream of back-and-forth between clients and operations.",
+      "Grounded the roadmap in client interviews and feedback from five operations teams, and deferred bulk "
+      "dependant upload to protect the core launch.",
+      "Established the team's operating rhythm: weekly performance updates, daily stand-ups, sprint planning and "
+      "sprint retrospectives."]),
     ("Movam Technologies Limited (logistics)",
-     "Lagos, Nigeria | Jan 2023 - Mar 2026 | Full-time<br/>"
-     "<b>Senior Product Manager</b>, Nov 2025 - Mar 2026 (promoted) | <b>Product Manager</b>, Jan 2023 - Oct 2025",
-     ["Owned the product lifecycle for multi-platform B2B solutions serving 10,000+ users, from discovery and "
-      "roadmap through launch and optimisation.",
-      "Led self-service partner onboarding after discovery with 20+ drivers and operations staff, cutting driver "
-      "registration from up to two weeks to under one day.",
-      "Led alternative-route planning, which led to fewer route-deviation alerts and faster operations follow-up, "
-      "followed by geofencing and remote locking.",
-      "Launched 7 high-impact features that contributed to a 15% improvement in customer satisfaction.",
-      "Built data-led experimentation and feedback loops that contributed to a 12% improvement in user activation."]),
-    ("Product Manager, Shopta (e-commerce marketplace)",
-     "Lagos, Nigeria | Jan 2025 - Jan 2026 | Contract",
-     ["Found checkout friction through funnel analysis, product analytics and user feedback, prioritised fixes by "
-      "value against effort, and drove an 18% increase in checkout conversion.",
-      "Led a cross-functional team of 12 engineers and designers using Agile methods and bi-weekly releases.",
-      "Partnered with UX/UI designers on the mobile experience, which contributed to a 20% increase in daily active users."]),
+     "Lagos, Nigeria | 2024 - 2026 | Full-time<br/>"
+     "<b>Senior Product Manager</b>, 2025 - 2026 (promoted) | <b>Product Manager</b>, 2024 - 2025",
+     ["Owned product strategy and the roadmap for a B2B fleet-management platform serving 10,000+ users, spanning "
+      "live tracking, trip management, electronic proof of delivery (EPOD), safety and activity reporting, and fleet "
+      "maintenance and compliance.",
+      "Identified onboarding friction, not demand, as the constraint on growth through research with 20+ drivers "
+      "and operations staff, and made it the top roadmap priority.",
+      "Led self-service partner onboarding, cutting driver registration time by more than 90%, from up to two weeks "
+      "to under one day, and growing driver supply.",
+      "Shipped 7 features, including partner onboarding, alternative-route planning, geofencing and remote locking, "
+      "contributing to a 15% increase in customer satisfaction.",
+      "Established data-led experimentation and feedback loops that contributed to a 12% increase in user activation.",
+      "Introduced AI-assisted workflows for research synthesis, requirements, edge-case analysis and test planning, "
+      "with human review before work entered the backlog."]),
     ("Product Manager, Edswot (education technology)",
-     "Lagos, Nigeria | Aug 2024 - Sep 2025 | Consulting | Team of 10-20",
-     ["Led the launch of a personalised learning dashboard that improved course completion by 22%.",
-      "Introduced automated student-instructor feedback loops, lifting NPS by 12 points.",
-      "Prioritised the backlog from learner and instructor feedback and business value; coordinated go-to-market "
-      "with marketing for new learning modules."]),
+     "Lagos, Nigeria | 2023 - 2024 | Consulting",
+     ["Set backlog priorities for a team of 10-20 from learner and instructor feedback, weighed against business value.",
+      "Launched a personalised learning dashboard that increased course completion by 22%.",
+      "Introduced automated student-instructor feedback loops that raised NPS by 12 points.",
+      "Coordinated go-to-market with marketing for new learning modules."]),
+    ("Product Manager, Shopta, formerly WhipFix Hub (e-commerce marketplace)",
+     "Lagos, Nigeria | 2021 - 2023 | Contract",
+     ["Owned the end-to-end product lifecycle for a marketplace connecting buyers directly to sellers.",
+      "Pinpointed checkout as the main conversion constraint through funnel analysis, journey analytics and user feedback.",
+      "Prioritised fixes by value against effort and drove an 18% increase in checkout conversion.",
+      "Partnered with UX/UI on the mobile experience, contributing to a 20% increase in daily active users.",
+      "Led 12 engineers and designers on bi-weekly Agile releases."]),
     ("Founder, Maloxe",
-     "Apparel distribution (wholesale and retail) | Lagos, Nigeria | 2019 - 2022",
+     "Apparel distribution (wholesale and retail) | Lagos, Nigeria | 2019 - 2021",
      ["Founded and ran an apparel brand supplying clothing to wholesale and retail buyers across Lagos.",
       "Owned the full commercial cycle: product sourcing, pricing, sales, customer relationships, inventory and cash flow.",
       "Built the commercial judgment I bring to product work: understanding what customers will pay for, managing "
-      "margins, and making decisions with limited resources."]),
-    ("Founder, Brainbox Ninja",
-     'Independent product | 2026 - Present | <a href="https://brainbox-ninja.vercel.app">brainbox-ninja.vercel.app</a>',
-     ["Defined, specified and shipped a free puzzle game for players of every age by directing AI-assisted "
-      "development; launched to an initial group of 25 test players.",
-      "Used player feedback to expand the question bank and plan adaptive difficulty."]),
+      "margins and making decisions with limited resources."]),
 ]
 
 EDUCATION = "Crawford University, Ogun State, Nigeria - BSc, Biochemistry (2015 - 2019)"
@@ -149,7 +138,6 @@ def heading(t):
 def build():
     story = [Paragraph(NAME, S["name"]), Paragraph(TITLE, S["title"]), Paragraph(links(CONTACT), S["contact"])]
     story += heading("PROFESSIONAL SUMMARY") + [Paragraph(SUMMARY, S["body"])]
-    story += heading("KEY ACHIEVEMENTS") + [bullets(ACHIEVEMENTS)]
     story += heading("CORE SKILLS") + [bullets([f"<b>{k}:</b> {v}" for k, v in SKILLS])]
     story += heading("PROFESSIONAL EXPERIENCE")
     for role, sub, items in EXPERIENCE:
